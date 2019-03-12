@@ -1,0 +1,16 @@
+..\output\system.o: ..\..\system\src\system.c
+..\output\system.o: ..\..\system\inc\system.h
+..\output\system.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\output\system.o: ..\..\CMSIS\CoreSupport\core_cm3.h
+..\output\system.o: D:\KEIL\KEIL_Pro\KEIL_5\ARM\ARMCC\bin\..\include\stdint.h
+..\output\system.o: ..\..\CMSIS\STM32F10x\system_stm32f10x.h
+..\output\system.o: ..\..\user\inc\stm32f10x_conf.h
+..\output\system.o: ..\..\Libraries\inc\stm32f10x_adc.h
+..\output\system.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\output\system.o: ..\..\Libraries\inc\stm32f10x_exti.h
+..\output\system.o: ..\..\Libraries\inc\stm32f10x_gpio.h
+..\output\system.o: ..\..\Libraries\inc\stm32f10x_rcc.h
+..\output\system.o: ..\..\Libraries\inc\stm32f10x_spi.h
+..\output\system.o: ..\..\Libraries\inc\stm32f10x_tim.h
+..\output\system.o: ..\..\Libraries\inc\stm32f10x_usart.h
+..\output\system.o: ..\..\Libraries\inc\misc.h

@@ -1,0 +1,16 @@
+..\output\delay.o: ..\..\system\src\delay.c
+..\output\delay.o: ..\..\system\inc\delay.h
+..\output\delay.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\output\delay.o: ..\..\CMSIS\CoreSupport\core_cm3.h
+..\output\delay.o: D:\KEIL\KEIL_Pro\KEIL_5\ARM\ARMCC\bin\..\include\stdint.h
+..\output\delay.o: ..\..\CMSIS\STM32F10x\system_stm32f10x.h
+..\output\delay.o: ..\..\user\inc\stm32f10x_conf.h
+..\output\delay.o: ..\..\Libraries\inc\stm32f10x_adc.h
+..\output\delay.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\output\delay.o: ..\..\Libraries\inc\stm32f10x_exti.h
+..\output\delay.o: ..\..\Libraries\inc\stm32f10x_gpio.h
+..\output\delay.o: ..\..\Libraries\inc\stm32f10x_rcc.h
+..\output\delay.o: ..\..\Libraries\inc\stm32f10x_spi.h
+..\output\delay.o: ..\..\Libraries\inc\stm32f10x_tim.h
+..\output\delay.o: ..\..\Libraries\inc\stm32f10x_usart.h
+..\output\delay.o: ..\..\Libraries\inc\misc.h
